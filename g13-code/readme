@@ -1,0 +1,27 @@
+If you are here, this means you have extracted the g13-code.zip.
+
+Code is using Python 3.
+
+Libraries Required: Please install the following libraries: plotly, matplotlib, pandas, numpy, kaleido and seaborn.
+
+Compositions:
+1. Input_Files   :  This comprise of input files to drive the complete execution of the project.
+2. Other Foders:  These are the folders named properly, and comprise of the .py files of the same tasks.
+3. .sh files	   :  These are the files which call the .py files within the folders to execute and produce the outputs.
+4. g13-code.sh : This is the main shell file.
+5. g13-presentation.pdf : This is the pdf which will be used for project presentation.
+6. g13-report.pdf : This is the project report.
+7. Latex Folder: This comprises of both the presentation Latex and report Latex with resources.
+
+Steps to Execute:
+1. Run the terminal in the extracted folder.
+2. Run the command "bash g13-code.sh" in the terminal.
+3. Let the program execute completely.
+4. Regular messages will come after execution of the parts.
+5. ********** Note : Some Postscript error will come while executing, they will be thrown by eps file creation. Outputs will be generated properly despite of this fact. Please ignore them.****************
+
+
+Output:
+Please check the output files within each folder except for the input_Files one.
+
+Thank you for your patience!
